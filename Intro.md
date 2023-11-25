@@ -17,7 +17,7 @@
 
 - _unpaired tag are also known as void tags_
 
-  ###Library Vs Framework
+  ### Library Vs Framework
   JavaScript libraries are a specialized tool for on-demand use, JavaScript frameworks are a full toolset that help shape and organize your website or web application
  ###Block Vs Inline Tags
 - Blocks takes the whole _width_ of the browser
