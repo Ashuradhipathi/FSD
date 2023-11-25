@@ -16,3 +16,6 @@
 **Web Page:** A web page is a document which is commonly written in HTML and translated by a web browser. A web page can be identified by entering an URL. A Web page can be of the static or dynamic type
 
 - _unpaired tag are also known as void tags_
+
+  ###Library Vs Framework
+  JavaScript libraries are a specialized tool for on-demand use, JavaScript frameworks are a full toolset that help shape and organize your website or web application
