@@ -27,6 +27,8 @@
 - src
   : supports both relative and absolute urls
 
+- '/<br>' (represents a line break) , /<hr>(represents a horizontal line)
+
 - _Save the HTML file with .htm or .html extension._
 - _double-click on file or click on open with option_
 <br>
